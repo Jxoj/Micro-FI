@@ -19,3 +19,5 @@ Use PostRawTxt to send data to other micro:bits
 
 Use Radio to simulate micro:bit Radio
 for examples see the Test function
+
+The hex file is openable in https://makecode.microbit.org
