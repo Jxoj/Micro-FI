@@ -4,8 +4,8 @@ Micro-FI is wifi for micro:bit
 Using BLE (instead of a wifi chip)
 
 Router site and source code
-https://jxoj.github.io/Microfi
-https://github.com/jxoj/Microfi
+https://jxoj.github.io/Micro-FI
+https://github.com/jxoj/Micro-FI
 
 IP addresses look like this 678.123.5.135
 
