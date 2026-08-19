@@ -21,3 +21,7 @@ Use Radio to simulate micro:bit Radio
 for examples see the Test function
 
 The hex file is openable in https://makecode.microbit.org
+
+To use in your project paste the code from main.ts in to your project by clicking the JavaScript button scrolling all the way down and pasting the copied code.
+
+Make sure to call the InitMicroFI function before you try to use the micro-fi functions.
